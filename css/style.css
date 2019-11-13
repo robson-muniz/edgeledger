@@ -46,6 +46,11 @@ p {
 	color: white;
 }
 
+.bg-primary {
+	background: #93cb52;
+	color: white;
+}
+
 .l-heading {
 	font-size: 4rem;
 	margin-bottom: 0.75rem;
@@ -91,6 +96,7 @@ p {
 	padding: 0.5rem 2rem;
 	border: none;
 	border-radius: 5px;
+	transition: all .3s;
 }
 
 .btn:hover {
@@ -134,6 +140,7 @@ p {
 	color: white;
 	padding: 0.75rem;
 	margin: 0 0.25rem;
+	transition: all .5s;
 }
 
 #navbar ul li a:hover {
@@ -206,4 +213,28 @@ p {
 	display: block;
 	margin: auto;
 	width: 60%;
+}
+
+/* Section: Contact */
+#contact {
+	display: flex;
+}
+
+#contact .map,
+#contact .contact-form {
+	flex: 1;
+}
+
+#contact .contact-form .form-group {
+	margin: 0.75rem;
+}
+
+#contact .contact-form label {
+	display: block;
+}
+
+#contact .contact-form input,
+#contact .contact-form textarea {
+	width: 100%;
+	padding: 0.5rem;
 }
