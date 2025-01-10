@@ -53,21 +53,18 @@ This project was built using:
 
 ---
 
-##Project Goals 🎯
+## Project Goals 🎯
 
 This project was developed to:
-	•	Implement blockchain-like principles using JavaScript. 💡
-	•	Explore decentralized storage solutions for personal or educational use. 🏫
-	•	Understand the foundational concepts of ledger-based systems. 🔍
+- Implement blockchain-like principles using JavaScript. 💡
+- Explore decentralized storage solutions for personal or educational use. 🏫
+- Understand the foundational concepts of ledger-based systems. 🔍
 
- ---
-
+---
 
 ## Contact 📞
 
 If you have any questions, feel free to reach out:
-	•	GitHub: robson-muniz 🐙
-	•	YouTube: @DevMadeEasy 📺
-	•	Twitter: @WebDevMadeEasy 🐦
-
-   
+- **GitHub**: [robson-muniz](https://github.com/robson-muniz) 🐙
+- **YouTube**: [@DevMadeEasy](https://youtube.com/@DevMadeEasy) 📺
+- **Twitter**: [@WebDevMadeEasy](https://x.com/WebDevMadeEasy) 🐦
