@@ -2,7 +2,7 @@
 
 A simple, decentralized ledger built with JavaScript. EdgeLedger leverages blockchain principles to store transaction records in a secure, immutable, and transparent way. 🚀🔒
 
-![EdgeLedger Preview](https://via.placeholder.com/800x400)
+![EdgeLedger Preview]((https://github.com/user-attachments/assets/7c16b873-7137-49a7-9274-33466598a8a7)
 
 ## Table of Contents 📋
 
@@ -26,7 +26,7 @@ A simple, decentralized ledger built with JavaScript. EdgeLedger leverages block
 
 ## Demo 🚀
 
-Check out the live version of the project [here](https://robson-muniz.github.io/edgeledger/). 🌐
+Check out the live version of the project [here](https://peppy-kitsune-d90c38.netlify.app). 🌐
 
 ---
 
